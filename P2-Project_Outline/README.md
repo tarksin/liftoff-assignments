@@ -1,4 +1,4 @@
-##fastbooks
+## fastbooks
 ##### Personal expense tracking web application
 
 ### Overview
@@ -16,16 +16,16 @@ Each user can do the following:
 8. Admin role will control permission (issue initial passwords?) to users to use the service.
 
 ### Technologies
-*flask
-*Python
-*Bootstrap
-*MySQL
-*SQLAlchemy
-*React
-*Apache or nginx web server
-*AWS EC2 instance or Digital Ocean droplet
-*git, GitHub
-*Pivotal
+* flask
+* Python
+* Bootstrap
+* MySQL
+* SQLAlchemy
+* React
+* Apache or nginx web server
+* AWS EC2 instance or Digital Ocean droplet
+* git, GitHub
+* Pivotal
 
 ### What I'll Have to Learn
 How to configure React on cloud server
